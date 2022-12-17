@@ -1,0 +1,53 @@
+.background{
+    display: flex;
+align-items: center;
+    justify-content: center;
+   
+}
+.inputbar{
+
+    display: flex;
+   position: relative;
+  margin: 10px;
+  justify-content: center;
+
+}
+.backcolor{
+    /* display: block; */
+    display: flex;
+    height: fit-content;
+    width: 250px;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+}
+
+th,td{
+
+    border: 1px solid rgb(255, 255, 255);
+
+ 
+}
+.container th,td {
+    
+    color: aliceblue;
+}
+.ssckkj{
+
+    display: none;
+    color: brown;
+    position: relative;
+  left:55px;
+
+
+ }
+ .bobyback{
+    background-color: black;
+ }
+ .container{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+ }
